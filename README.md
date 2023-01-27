@@ -1,6 +1,5 @@
 # Hyoungku Jeon
-
-![image](https://user-images.githubusercontent.com/25922010/215055331-439f8b93-31db-41ea-a94e-31589d55d974.png)
+ <a href="https://www.linkedin.com/in/hyoungku-jeon-479975247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-#0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 
 ## Problem Solving by Solved.ac 
