@@ -1,9 +1,9 @@
 # Hyoungku Jeon
-**Ph.D majored in Physics**
+**Ph.D majored in Physics** at SungKyunKwan Univ.
 
 💻 My Skill
 
-⚡⚡⚡ C++ | Python | ROOT | Geant4 | MySQL | Swift 
+⚡⚡⚡ C++ | Python | MySQL | ROOT
 
 ⚡⚡ Data Analysis | Data Visualization | Data Management
 
