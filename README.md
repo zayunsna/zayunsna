@@ -10,6 +10,8 @@
 ⚡ Vim | English | Korean | Japanese | Coffee brewing☕
 
 👋 More about Me -> <a href="https://www.linkedin.com/in/hyoungku-jeon-479975247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
+<a href="https://zayunsna.github.io/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
+
 
 
 
