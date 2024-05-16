@@ -1,5 +1,3 @@
-# Hyoungku Jeon
-**Ph.D majored in Physics** @ SungKyunKwan Univ.
 
 💻 My Skill
 
